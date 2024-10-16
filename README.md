@@ -1,1 +1,1 @@
-Run the whole program from the lofin page
+Run the whole program from the login page
